@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ciabomol.github.io/sitemap.ciabomol.gz
+Sitemap: https://ciabomol.github.io/app/sitemap.ciabomol.gz
+Sitemap: https://ciabomol.github.io/assets/sitemap.ciabomol.gz
+Sitemap: https://ciabomol.github.io/css/sitemap.ciabomol.gz
+Sitemap: https://ciabomol.github.io/data/sitemap.ciabomol.gz
+Sitemap: https://ciabomol.github.io/includes/sitemap.ciabomol.gz
+Sitemap: https://ciabomol.github.io/item/sitemap.ciabomol.gz
+Sitemap: https://ciabomol.github.io/src/sitemap.ciabomol.gz
